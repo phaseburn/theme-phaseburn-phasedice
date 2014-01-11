@@ -1,0 +1,4 @@
+#!/bin/sh
+
+rm -rf res-final/
+rm -rf libs/

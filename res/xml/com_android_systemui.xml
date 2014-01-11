@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2010, T-Mobile USA, Inc.
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+    <item name="drawable/ic_sysbar_add">@drawable/com_android_systemui_ic_sysbar_add</item>
+    <item name="drawable/ic_sysbar_add_land">@drawable/com_android_systemui_ic_sysbar_add_land</item>
+    <item name="drawable/ic_sysbar_add_side">@drawable/com_android_systemui_ic_sysbar_add_side</item>
+    <item name="drawable/ic_sysbar_back">@drawable/com_android_systemui_ic_sysbar_back</item>
+    <item name="drawable/ic_sysbar_back_land">@drawable/com_android_systemui_ic_sysbar_back_land</item>
+    <item name="drawable/ic_sysbar_back_side">@drawable/com_android_systemui_ic_sysbar_back_side</item>
+    <item name="drawable/ic_sysbar_back_ime">@drawable/com_android_systemui_ic_sysbar_back_ime</item>
+    <item name="drawable/ic_sysbar_back_ime_land">@drawable/com_android_systemui_ic_sysbar_back_ime_land</item>
+    <item name="drawable/ic_sysbar_home">@drawable/com_android_systemui_ic_sysbar_home</item>
+    <item name="drawable/ic_sysbar_home_land">@drawable/com_android_systemui_ic_sysbar_home_land</item>
+    <item name="drawable/ic_sysbar_recent">@drawable/com_android_systemui_ic_sysbar_recent</item>
+    <item name="drawable/ic_sysbar_recent_land">@drawable/com_android_systemui_ic_sysbar_recent_land</item>
+    <item name="drawable/ic_sysbar_recent_side">@drawable/com_android_systemui_ic_sysbar_recent_side</item>
+    <item name="drawable/ic_sysbar_menu">@drawable/com_android_systemui_ic_sysbar_menu</item>
+    <item name="drawable/ic_sysbar_menu_land">@drawable/com_android_systemui_ic_sysbar_menu_land</item>
+    <item name="drawable/ic_sysbar_menu_big">@drawable/com_android_systemui_ic_sysbar_menu_big</item>
+    <item name="drawable/ic_sysbar_menu_big_land">@drawable/com_android_systemui_ic_sysbar_menu_big_land</item>
+    <item name="drawable/ic_sysbar_recent_clear">@drawable/com_android_systemui_ic_sysbar_recent_clear</item>
+    <item name="drawable/ic_sysbar_recent_clear_land">@drawable/com_android_systemui_ic_sysbar_recent_clear_land</item>
+    <item name="drawable/ic_sysbar_search">@drawable/com_android_systemui_ic_sysbar_search</item>
+    <item name="drawable/ic_sysbar_search_land">@drawable/com_android_systemui_ic_sysbar_search_land</item>
+    <item name="drawable/ic_sysbar_search_side">@drawable/com_android_systemui_ic_sysbar_search_side</item>
+</resource-redirections>
